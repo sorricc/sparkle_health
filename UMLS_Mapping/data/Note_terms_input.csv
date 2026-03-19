@@ -1,0 +1,527 @@
+ProviderEpicId,ClinicalNoteEpicId,term,count
+80201,3839877603,abnormal nerve response to surgery,1
+80201,4284925658,maceration and extrusion of the medial meniscal body,1
+80201,4309354002,osteoarthritis of bilateral knee,1
+80201,4456730054,failed right partial total knee arthroplasty,1
+80201,4363376227,failed knee arthritis,1
+80201,4201884533,degenerative arthrosis of the right knee,1
+80201,3915018100,right knee osteoarthritis,1
+80201,3958144849,possible quad tendon tear,1
+80201,4200657687,tear of the anterior horn of the lateral meniscus,1
+80201,4163834712,knee stiffness,1
+80201,4049814134,bone on bone arthritis,1
+80201,4279376036,extensor mechanism disruption,1
+80201,4417300842,osteoarthritis of right knee,1
+80201,4456478785,patellofemoral joint compartment chondrosis,1
+80201,4456255148,failure of total knee replacement,1
+80201,4140297163,aseptic loosening of knee prosthesis,1
+80201,4362942882,osteoarthritis of right knee,1
+80201,3971900088,meniscus tears,1
+80201,4300453287,osteoarthritis of left hip,1
+80201,4300184377,acl injury,1
+80201,4075006385,medial joint space narrowing,1
+80201,4309075336,failure of right knee replacement,1
+80201,4456478785,high-grade medial joint compartment chondrosis,1
+80201,4456478785,osteoarthritis of the left knee,1
+80201,4362882433,degenerative arthrosis of the knee,1
+80201,4058633279,arthrofibrosis of the right knee,1
+80201,4088840870,painful bone fragment,1
+80201,4074243399,osteoarthritis of the knee,1
+80201,4063176349,possible arthrofibrosis,1
+80201,4163834712,knee instability,1
+80201,4050034512,osteoarthritis of bilateral knee,1
+80201,4048792096,osteonecrosis of bilateral knees,1
+80201,4075006385,bone on bone arthritis,1
+80201,4279376036,quadriceps tendon rupture,1
+80201,3951737273,osteoarthritis of the right knee,1
+80201,4406460955,possible pji of the right knee,1
+80201,4007567345,hip osteoarthritis,1
+80201,4437217154,stiff right total knee arthroplasty,1
+80201,4049814134,varus angular deformity,1
+80201,4008753087,osteoarthritis of the left knee,1
+80201,4417234054,osteoarthritis,1
+80201,4200657687,small joint effusion with degenerative synovitis,1
+80201,4279396175,root tear of the medial meniscus,1
+80201,4423497654,chondrocalcinosis,1
+80201,4272346137,osteoarthritis of the left knee,1
+80201,4048041149,osteoarthritis of the right knee,1
+80201,4278791017,arthrofibrosis of the left knee,1
+80201,4426783155,osteoarthritis of left knee,1
+80201,4437231012,avascular necrosis of bilateral knees,1
+80201,3886737237,complex tear of the medial meniscus,1
+80201,4326664088,right knee arthritis,1
+80201,4456255148,arthrofibrosis,1
+80201,3810191659,degenerative arthrosis of the left knee,1
+80201,3956701406,metallosis,1
+80201,4234142891,post-traumatic arthritis of the right knee,1
+80201,3810536057,iliopsoas tendinitis,1
+80201,4363235527,prosthetic joint infection,1
+80201,4279376036,instability of knee replacement,1
+80201,4317570349,degenerative arthrosis of the knee,1
+80201,4327135438,osteoarthritis of the right knee,1
+80201,4284675325,lateral meniscus tear,1
+80201,3914464626,iliopsoas tendinitis,1
+80201,4021028941,lateral joint space narrowing,1
+80201,4049914352,patella tendon rupture,1
+80201,4256891046,osteoarthritis of right knee,1
+80201,4284925658,meniscus tear,1
+80201,4076462012,valgus knee osteoarthritis,1
+80201,4270762645,arthrofibrosis of the left knee,1
+80201,4074948314,osteoarthritis of the left knee,1
+80201,4312060057,subcapital femoral neck fracture,1
+80201,4413604397,osteoarthritis of bilateral knees,1
+80201,4201197901,osteoarthritis,1
+80201,4363235527,wound dehiscence,1
+80201,4279396175,synovitis,1
+80201,4437809456,radial tear of the anterior horn lateral meniscus,1
+80201,4343782473,stiffness after total knee replacement,1
+80201,4151545870,arthrofibrosis,1
+80201,4317782209,slow healing wound opening,1
+80201,4363309183,osteoarthritis of left hip,1
+80201,4076729769,osteoarthritis of right knee,1
+80201,4008654554,osteoarthritis,1
+80201,3838669554,post-traumatic arthritis of the left knee,1
+80201,4284675325,patellofemoral osteoarthritis,1
+80201,4039369395,prepatellar bursa infection,1
+80201,4201197901,degenerative arthrosis of the knee,1
+80201,4423497654,osteoarthritis of the knee,1
+80201,3985279380,osteoarthritis of left hip,1
+80201,4111550917,arthrofibrosis,1
+80201,3839178212,degenerative arthrosis of the right knee,1
+80201,3892801968,metallosis,1
+80201,4076462012,abductor weakness,1
+80201,4456461942,osteoarthritis of the knee,1
+80201,4354079697,osteoarthritis of the knee,1
+80201,4021028941,valgus angular deformity,1
+80201,3845711424,osteoarthritis of bilateral knee,1
+80201,4344376702,right knee arthritis,1
+80201,4049914352,wound opening with pji,1
+80201,4362794910,crepitus in the right knee,1
+80201,4048091923,osteoarthritis of the bilateral knee,1
+80201,4235201525,osteoarthritis of the right knee,1
+80201,4076295048,chondrosis at the femoral trochlea,1
+80201,4086127573,left total knee arthroplasty,1
+80201,4042984432,loosening of right knee revision,1
+80201,4406573818,tricompartmental chondrosis,1
+80201,4140330420,lateral meniscus tear,1
+80201,4317428886,bilateral knee oa,1
+80201,4074449181,rectus iliopsoas tendinitis,1
+80201,4201761598,patella tilt,1
+80201,4437217154,osteoarthritis of the left knee,1
+80201,3886737237,suprapatellar joint effusion with synovitis,1
+80201,3891884913,impaired range of motion,1
+80201,3848175249,acute blood loss anemia,1
+80201,4309115351,bone on bone arthritis,1
+80201,4075242101,acl sprain,1
+80201,4088282583,post-traumatic arthrosis of the knee,1
+80201,4008461487,osteoarthritis of the bilateral knee,1
+80201,4089407696,osteoarthritis of the left knee,1
+80201,4279692008,trochanteric bursitis,1
+80201,4048121053,osteoarthritis of the right knee,1
+80201,4011832628,degenerative arthrosis of the knee,1
+80201,4010845527,aseptic loosening of right knee,1
+80201,4309611552,left knee periprosthetic joint infection,1
+80201,4300184377,left knee osteoarthritis,1
+80201,4072932251,intertrochanteric femur fracture,1
+80201,4201197901,total knee replacement,1
+80201,3811587056,osteoarthritis,1
+80201,4007763113,right knee osteoarthritis,1
+80201,4088029193,infection of prosthetic knee joint,1
+80201,4406918692,arthrofibrosis,1
+80201,4456730054,painful left unicompartmental knee arthroplasty,1
+80201,4010921346,osteoarthritis,1
+80201,4426783155,subchondral insufficiency fracture,1
+80201,4363376227,failed total hip revision arthroplasty due to aseptic loosening,1
+80201,3977448154,osteoarthritis of right hip,1
+80201,4075242101,meniscus tears,1
+80201,4406468263,patellofemoral osteoarthritis,1
+80201,4062858027,failed left total knee arthroplasty,1
+80201,4201213584,painful total knee arthroplasty,1
+80201,4456820347,it band tendinitis,1
+80201,4037583576,medial meniscus tear,1
+80201,4216813357,rectus tendinitis,1
+80201,4271693937,osteoarthritis of left knee,1
+80201,3971804332,arthritis of the bilateral knees,1
+80201,3940321104,degenerative arthrosis of the left knee,1
+80201,4300610141,post-traumatic arthrosis of the left knee,1
+80201,4076295048,right knee oa,1
+80201,4037237746,periprosthetic joint infection,1
+80201,4008314953,painful left total knee revision,1
+80201,4138977540,infection of left knee revision tka,1
+80201,3914087677,arthrofibrosis of the left knee,1
+80201,4437866604,suprapatellar joint effusion,1
+80201,4326905120,chondrosis of the medial tibial plateau,1
+80201,4049814134,medial joint space narrowing,1
+80201,4353968245,left knee chronic infection,1
+80201,4300209789,arthrofibrosis,1
+80201,4009913819,primary osteoarthritis of knee,1
+80201,4074719889,knee stiffness,1
+80201,4234456544,osteoarthritis of the knee,1
+80201,4063414919,aseptic loosening of right knee implant,1
+80201,4073995616,patellofemoral osteoarthritis,1
+80201,3983667835,failed left total knee arthroplasty,1
+80201,3915128699,revision total knee replacement,1
+80201,4063176349,painful total knee replacement,1
+80201,3839178212,degenerative arthrosis of the left knee,1
+80201,4036544310,osteoarthritis of left knee,1
+80201,3810191659,wound drainage,1
+80201,4036817419,painful left tka,1
+80201,3839551942,degenerative joint disease secondary to osteoarthritis,1
+80201,3985670066,osteoarthritis of the knee,1
+80201,4423497654,chondromalacia,1
+80201,4437743967,knee osteoarthritis,1
+80201,4437866604,high-grade patellofemoral chondrosis,1
+80201,4195778676,osteoarthritis of bilateral knee,1
+80201,4279396175,mcl sprain,1
+80201,4445588202,abscess surrounding femoral component,1
+80201,4284833613,osteoarthritis,1
+80201,4284925658,popliteal cyst,1
+80201,3830942649,bilateral knee osteoarthritis,1
+80201,4201761598,capsular stretching,1
+80201,4456255148,medial meniscus tear,1
+80201,4270935589,focal osteochondral injury of the medial femoral trochlea,1
+80201,4011822925,arthrofibrosis,1
+80201,4140330420,patellofemoral osteoarthritis,1
+80201,4217670878,failure of tka,1
+80201,4437834591,left knee osteoarthritis,1
+80201,4388556839,left knee osteoarthritis,1
+80201,4284954149,patella fragmentation,1
+80201,4077139859,infection due to internal joint prosthesis,1
+80201,4437834591,pf crepitus,1
+80201,4074896262,possible septic arthritis,1
+80201,4279557595,failed right total knee arthroplasty revision,1
+80201,4165189383,osteoarthritis,1
+80201,4417032790,post-traumatic osteoarthritis,1
+80201,4362942882,osteoarthritis of bilateral hips,1
+80201,4300161852,right tibia fracture,1
+80201,4279396175,subchondral insufficiency fracture of the medial femoral condyle,1
+80201,4426528300,osteoarthritis of the right knee,1
+80201,4074344105,failed total knee arthroplasty revision,1
+80201,4062168305,medial meniscus tear,1
+80201,4233485310,stiffness and pain after total knee replacement,1
+80201,4327249008,osteoarthritis of bilateral knee,1
+80201,3811445416,impaired range of motion,1
+80201,4350008134,post traumatic osteoarthritis of the left knee,1
+80201,4077074784,osteoarthritis of the bilateral knee,1
+80201,3894439869,osteoarthritis of right hip,1
+80201,4048483446,periprosthetic joint infection,1
+80201,3983577749,painful revision total knee arthroplasty,1
+80201,4270759171,complex degenerative tear of lateral meniscus,1
+80201,4270759171,degenerative synovitis,1
+80201,4344270474,acl sprain,1
+80201,4278527818,patellofemoral osteoarthritis,1
+80201,4200657687,partial tear of the attachment of the conjoined tendon of the lcl complex to the fibular head,1
+80201,4300501347,osteoarthritis,1
+80201,4406573818,complex tear of the posterior horn and body of the lateral meniscus,1
+80201,4443485895,osteoarthritis of the left knee,1
+80201,4201666768,osteoarthritis of left knee,1
+80201,4062638607,post-traumatic arthritis of the right knee,1
+80201,4423992652,disruption of arthrotomy,1
+80201,4456820347,osteoarthritis,1
+80201,4270935589,high-grade chondrosis of the patellofemoral compartment,1
+80201,4217762998,degenerative arthrosis of the knee,1
+80201,4426528300,greater trochanteric bursitis,1
+80201,4270759171,osteoarthritis of right knee,1
+80201,4008144271,osteoarthritis,1
+80201,4150644840,loosening of the patella button,1
+80201,4317668556,degenerative arthrosis of the knee,1
+80201,4406803870,degenerative arthrosis of the knee,1
+80201,4074130558,chronic tendon avulsion,1
+80201,4007567345,degenerative arthrosis of the right knee,1
+80201,4423992652,revision total knee replacement,1
+80201,4362998859,osteoarthritis of the right knee,1
+80201,4309707601,degenerative arthrosis of the left knee,1
+80201,4423992652,patellar instability,1
+80201,3886737237,osteoarthritis of the right knee,1
+80201,4343800956,failed revision patella tendon repair,1
+80201,4423497654,medial meniscus tear,1
+80201,4217280428,left leg weakness,1
+80201,3810796129,stiffness of left total knee replacement,1
+80201,4089281710,rectus and tfl tendinitis,1
+80201,3983382749,painful total knee replacement,1
+80201,4437217154,meniscus tear of the left knee,1
+80201,4021028941,right knee osteoarthritis,1
+80201,4354170092,osteoarthritis of the bilateral knee,1
+80201,4089451748,bilateral knee osteoarthritis,1
+80201,4037067675,post-traumatic arthrosis of the knee,1
+80201,3970071460,osteoarthritis of the bilateral knee,1
+80201,4326942362,osteoarthritis,1
+80201,4447047340,osteoarthritis of left knee,1
+80201,4406468263,medial meniscus tear,1
+80201,4074722090,degenerative arthrosis of the knee,1
+80201,4326905120,degenerative tear of the medial meniscus,1
+80201,4284987182,charcot arthropathy,1
+80201,4164352510,degenerative arthrosis of the right knee,1
+80201,3940321104,residual stiffness after left total knee replacement,1
+80201,4068783614,right tka revision,1
+80201,4309543509,drop foot,1
+80201,4317508723,knee instability,1
+80201,4284925658,grade 4 chondrosis,1
+80201,4437809456,osteoarthritis of right knee,1
+80201,4447467572,left knee osteoarthritis,1
+80201,3810665380,osteoarthritis of left knee,1
+80201,3957087970,post-traumatic osteoarthritis of the right knee,1
+80201,4037679858,patella and quadriceps tendinitis,1
+80201,4062225451,pes anserine bursitis,1
+80201,4233890236,left knee osteoarthritis,1
+80201,4039334224,right periprosthetic joint infection,1
+80201,4075031777,carpal tunnel syndrome,1
+80201,3957799452,instability of knee arthroplasty,1
+80201,4201761598,arthrotomy disruption,1
+80201,4344114963,degenerative arthrosis of the bilateral knee,1
+80201,4139026580,lateral osteoarthritis of the right knee,1
+80201,4164047641,osteoarthritis of the left knee,1
+80201,3985778198,osteoarthritis of the right knee,1
+80201,4456478785,small joint effusion with synovitis,1
+80201,4388283730,osteoarthritis of the bilateral knee,1
+80201,4218205411,osteoarthritis of the right knee,1
+80201,4284925658,joint effusion,1
+80201,3913975850,stiffness after total knee replacement,1
+80201,4456268775,loosening of knee replacement,1
+80201,3894549887,left knee arthritis,1
+80201,4300532029,infection due to internal joint prosthesis,1
+80201,4326905120,osteoarthritis of the knee,1
+80201,4164814208,prosthetic joint infection,1
+80201,4437519842,osteoarthritis of right knee,1
+80201,3810993414,left total hip arthroplasty,1
+80201,3846002960,osteoarthritis of right knee,1
+80201,4387941589,osteoarthritis of left knee,1
+80201,3983667835,osteoarthritis of right knee,1
+80201,4164947247,complex tibial plateau nonunion,1
+80201,4362958471,osteoarthritis of right knee,1
+80201,4088938286,osteoarthritis of the bilateral knee,1
+80201,4300407244,osteoarthritis of right knee,1
+80201,4437743967,complex regional pain syndrome,1
+80201,4270935589,right knee osteoarthritis,1
+80201,4121131113,stiffness after right total knee arthroplasty,1
+80201,4300184377,medial meniscus tear,1
+80201,4200649716,osteoarthritis,1
+80201,4326726204,advanced osteoarthritis of the right knee,1
+80201,3915030926,osteoarthritis of the left knee,1
+80201,4416891306,total knee replacement,1
+80201,4049688522,osteoarthritis of left knee,1
+80201,3958503607,osteoarthritis of the left knee,1
+80201,4111386268,degenerative arthrosis of the left knee,1
+80201,4317206563,failed right unicompartmental knee arthroplasty,1
+80201,3984579126,osteoarthritis of the left knee,1
+80201,4271875724,horizontal oblique tear of the medial meniscus anterior horn,1
+80201,4097583873,mechanical loosening of prosthetic joint,1
+80201,4277515009,osteoarthritis of the knee,1
+80201,4285137657,post-traumatic degenerative arthrosis of the knee,1
+80201,4443485895,large ganglion cyst posterior to the knee,1
+80201,4363235527,proximal tibia fracture,1
+80201,4138703556,mechanical complication of implant,1
+80201,4278618843,osteoarthritis of the left knee,1
+80201,3830942649,chronic degenerative tearing of medial meniscus,1
+80201,4200657687,patellofemoral osteoarthritis,1
+80201,3958361743,bone on bone osteoarthritis of the right knee,1
+80201,3830942649,complex tear of posterior horn of lateral meniscus,1
+80201,4216667822,synovitis,1
+80201,4437519842,meniscus tear,1
+80201,4406573818,complex tear of the posterior horn and body of the medial meniscus,1
+80201,4037583576,intra-substance tear of patellar tendon,1
+80201,4309075336,prosthetic joint infection,1
+80201,4165189383,trochanteric bursitis,1
+80201,4387942575,left knee stiffness,1
+80201,3985184891,lateral plateau fracture,1
+80201,4317206563,possible periprosthetic joint infection,1
+80201,4456922442,osteoarthritis of the right knee,1
+80201,3894495082,left knee arthritis,1
+80201,4078360360,displaced subcapital femoral neck fracture,1
+80201,4279396175,complex tear of the lateral meniscus,1
+80201,4309425530,osteoarthritis of the left knee,1
+80201,4063093875,right knee osteoarthritis,1
+80201,4048890380,stiffness of left total knee replacement,1
+80201,4388485131,popliteus snapping,1
+80201,4234768371,right knee arthritis,1
+80201,4200657687,cppd crystal deposition disease,1
+80201,4074896262,osteoarthritis,1
+80201,4076462012,trochanteric bursitis,1
+80201,4284312277,acetabular tear of hip labrum,1
+80201,4344270474,meniscus tears,1
+80201,4074130558,extensor lag,1
+80201,3880221615,left femur orif complication,1
+80201,4363150347,right knee sprain,1
+80201,4278572141,pes anserine irritation,1
+80201,4285034192,prosthetic loosening of tibial component,1
+80201,4150676507,osteoarthritis of the right knee,1
+80201,4074802009,periprosthetic joint infection,1
+80201,4216667822,aseptic loosening,1
+80201,4271875724,osteoarthritis of bilateral knees,1
+80201,4443485895,prepatellar bursitis,1
+80201,4284684556,post-traumatic arthrosis of the left knee,1
+80201,4138857705,left femur fracture,1
+80201,4235418108,post traumatic osteoarthritis of the left knee,1
+80201,4447586722,residual weakness and pain post total knee replacement,1
+80201,4270759171,full-thickness cartilage loss of lateral tibial plateau,1
+80201,4036745918,extension deficit of right knee,1
+80201,4271875724,complex tear of the medial meniscus posterior horn,1
+80201,4278599273,osteoarthritis of bilateral hip,1
+80201,4062531753,left knee septic arthritis,1
+80201,4300161852,wound dehiscence,1
+80201,4068782162,chronic prosthetic joint infection,1
+80201,4279396175,knee joint effusion,1
+80201,4008654554,arthrofibrosis,1
+80201,4317672778,failed revision patella tendon repair,1
+80201,4426446692,stiffness of left knee replacement,1
+80201,4077139859,fused left knee,1
+80201,4037583576,patellar tendinitis,1
+80201,3956731732,complex degenerative tear of the medial meniscus,1
+80201,4062168305,post-traumatic osteoarthritis,1
+80201,4456365262,osteoarthritis of the bilateral knee,1
+80201,4456478785,large leaking popliteal cyst with synovitis,1
+80201,4456478785,complex tear of the medial meniscal body and posterior horn,1
+80201,4317319173,it band syndrome,1
+80201,4284925658,osteoarthritis of right knee,1
+80201,4344413137,osteoarthritis of bilateral knees,1
+80201,4406468263,osteoarthritis,1
+80201,3879322145,patella clunk syndrome,1
+80201,4075006385,varus angular deformity,1
+80201,4437866604,chondrosis,1
+80201,4456820347,radiculopathy,1
+80201,4077139859,ankle contracture,1
+80201,4111550917,failure of total knee replacement,1
+80201,4284925658,tear through the origin of the medial collateral ligament,1
+80201,3879337026,osteoarthritis of bilateral knees,1
+80201,3956731732,osteoarthritis of right knee,1
+80201,4201884533,degenerative arthrosis of the left knee,1
+80201,4201359792,osteoarthritis of the right knee,1
+80201,4456902811,osteoarthritis of the left knee,1
+80201,3830942649,enchondroma of distal femur,1
+80201,3839043225,degenerative arthrosis of the right knee,1
+80201,4300161852,prosthetic joint infection,1
+80201,4437607436,mechanical loosening of prosthetic joint,1
+80201,3811056258,osteoarthritis of the left knee,1
+80201,4300453287,osteoarthritis of left knee,1
+80201,4362770836,osteoarthritis,1
+80201,4388109533,osteoarthritis of right hip,1
+80201,4074455639,post-traumatic arthritis of the left knee,1
+80201,4165076163,degenerative arthrosis of the right knee,1
+80201,4285005566,loosening of tibial stem,1
+80201,4039390536,impacted femoral neck fracture,1
+80201,4445658682,instability of knee replacement,1
+80201,4076926002,osteoarthritis of the knee,1
+80201,4063247631,osteoarthritis of the knee,1
+80201,4063117689,right knee capsular sprain,1
+80201,4437281179,left knee stiffness,1
+80201,4255488497,osteoarthritis of the left knee,1
+80201,4201088807,left total hip arthroplasty,1
+80201,4443485895,complex tear of the medial meniscus,1
+80201,4456478785,medial tibial plateau subchondral insufficiency fracture,1
+80201,3839017354,residual stiffness after total knee replacement,1
+80201,4437866604,posterior root medial meniscus tear,1
+80201,4317817885,osteoarthritis of the bilateral knee,1
+80201,4447047340,pes anserine bursitis,1
+80201,4278599273,osteoarthritis of bilateral knee,1
+80201,4407076568,osteoarthritis of bilateral knees,1
+80201,3880221615,periprosthetic joint infection,1
+80201,4279396175,osteoarthritis,1
+80201,4300654929,flexion instability,1
+80201,4062405277,aseptic loosening of left knee,1
+80201,4256182497,osteoarthritis of the bilateral knee,1
+80201,4271455932,osteoarthritis,1
+80201,4074130558,periprosthetic joint infection,1
+80201,4216667822,polyethylene wear,1
+80201,3983667835,aseptic loosening,1
+80201,4270935589,patellofemoral chondrosis,1
+80201,4279396175,tricompartmental chondrosis,1
+80201,4417203693,osteoarthritis of right knee,1
+80201,4456478785,popliteus intramuscular edema,1
+80201,4406460955,failed r uka,1
+80201,4285005566,instability of right total knee replacement,1
+80201,4159152767,osteoarthritis of the right knee,1
+80201,4009871864,osteoarthritis of the right knee,1
+80201,4270759171,full-thickness cartilage loss of lateral femoral condyle,1
+80201,4165076163,left knee oa,1
+80201,4077139859,supracondylar fracture of the distal femur,1
+80201,4077139859,chronic mrsa infection,1
+80201,4076295048,full-thickness chondral loss in the medial compartment,1
+80201,4456478785,complex tear of the lateral meniscal body and anterior horn,1
+80201,4138457491,tricompartmental osteoarthritis,1
+80201,3985184891,osteoarthritis of right knee,1
+80201,4309115351,osteoarthritis,1
+80201,3971949490,osteoarthritis of left knee,1
+80201,4416844960,right knee osteoarthritis,1
+80201,4139449159,osteoarthritis of the left knee,1
+80201,4312682061,nondisplaced femoral neck fracture,1
+80201,4139026580,osteoarthritis of the left knee,1
+80201,4201586596,failed total knee arthroplasty,1
+80201,3956701406,mechanical failure of total hip replacement,1
+80201,3914847741,failure of medial compartment uka of the left knee,1
+80201,4417359484,osteoarthritis of the left knee,1
+80201,3839267435,osteoarthritis,1
+80201,3956682842,osteoarthritis of left knee,1
+80201,4279431918,mechanical loosening of prosthetic joint,1
+80201,4326942362,trochanteric bursitis,1
+80201,4443485895,medial compartment chondrosis,1
+80201,4447467572,hallux rigidus deformity,1
+80201,3923456432,right knee osteoarthritis,1
+80201,4039308411,femoral neck fracture,1
+80201,4146824386,advanced knee oa,1
+80201,4049814134,degenerative arthrosis of the knee,1
+80201,4309468182,advanced osteoarthritis of the bilateral knees,1
+80201,4074802009,failed partial knee arthroplasty,1
+80201,4290485102,periprosthetic joint infection,1
+80201,4279692008,osteoarthritis of bilateral knees,1
+80201,4317671001,degenerative arthrosis of the left knee,1
+80201,3971900088,osteoarthritis,1
+80201,4344270474,osteoarthritis of the right knee,1
+80201,4151545870,failure of total knee replacement,1
+80201,4300654929,painful total knee replacement,1
+80201,4007567345,hip tendinitis,1
+80201,4284883636,bilateral knee arthritis,1
+80201,4362998859,chronically dislocated patella,1
+80201,4074243399,meniscus tear,1
+80201,4233483703,arthrofibrosis,1
+80201,4362976090,osteoporosis,1
+80201,4363055027,osteoarthritis of left knee,1
+80201,3847660978,acute blood loss anemia,1
+80201,3838669554,femoral condyle malunion,1
+80201,4075242101,osteoarthritis of the right knee,1
+80201,3838733353,degenerative arthrosis of the knee,1
+80201,4413604397,osteoarthritis of right hip,1
+80201,4010714312,post-traumatic arthritis of the right knee,1
+80201,4201586596,periprosthetic infection,1
+80201,3983827643,osteoarthritis of the left knee,1
+80201,4075242101,lcl sprain,1
+80201,4073864473,osteoarthritis of bilateral knees,1
+80201,4200698895,bilateral knee osteoarthritis,1
+80201,4048540186,intra-articular ossified body of the knee,1
+80201,4363376227,failed total knee replacement due to aseptic loosening with subsidence and bone loss,1
+80201,4138977540,mechanical complication of implant,1
+80201,4138857705,right total knee replacement,1
+80201,4111713777,osteoarthritis of the left knee,1
+80201,4277515009,lumbar stenosis,1
+80201,4300407244,inflammatory arthritis of right knee,1
+80201,4234256909,post traumatic osteoarthritis,1
+80201,3880221615,painful left total knee arthroplasty,1
+80201,4040784142,chronic periprosthetic joint infection,1
+80201,4309168724,nerve pain,1
+80201,4429858347,right knee meniscus tear,1
+80201,4344270474,lcl sprain,1
+80201,4388020453,osteoarthritis of right knee,1
+80201,4218096959,hamstrings injury,1
+80201,4200657687,popliteal cyst,1
+80201,4062531753,post-infectious arthrosis of the left knee,1
+80201,4163834712,mechanical complication of knee implant,1
+80201,4312654329,displaced basicervical femoral neck fracture,1
+80201,3886737237,maceration of the anterior lateral meniscus,1
+80201,4388485131,right knee instability,1
+80201,4076295048,complex degenerative tearing of the medial meniscus,1
+80201,4344196381,right quadriceps weakness,1
+80201,3838869444,osteoarthritis of bilateral knees,1
+80201,4164352510,degenerative arthrosis of the left knee,1
+80201,4363366721,osteoarthritis of the left knee,1
+80201,4075006385,degenerative arthrosis of the knee,1
+80201,4255480626,osteoarthritis of the left knee,1
+80201,4445658682,arthrofibrosis,1
+80201,4388109533,osteoarthritis of bilateral knees,1
+80201,3915128699,fractured osteophyte,1
+80201,4139439742,osteoarthritis of left knee,1
+80201,4445658682,partial ingrowth of knee implants,1
+80201,3892801968,mechanical failure of total hip replacement,1
+80201,3818830735,acute periprosthetic joint infection,1
+80201,4216813357,tensor fasciae latae tendinitis,1
+80201,4445657289,stiffness after bilateral total knee replacement,1
+80201,4447300578,painful crepitus,1
+80201,4073881952,osteoarthritis of left knee,1
